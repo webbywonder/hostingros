@@ -1,8 +1,2 @@
 User-Agent: *
-Disallow: 
-Disallow: /email
-Disallow: /livechat
-Disallow: /news
-Disallow: /doms
-
-Sitemap: http://www.hostingros.com/www-sitemap.xml
+Sitemap: http://www.hostingros.com/sitemap.xml
